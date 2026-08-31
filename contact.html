@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contact | GenHart Lab</title>
+    <meta name="description" content="Apply for coaching, request the syllabus, or contact GenHart Lab about the next cohort.">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"></span><span>GenHart Lab</span></a>
+        <div class="nav-links">
+          <a href="index.html">Home</a>
+          <a href="about.html">About</a>
+          <a href="syllabus.html">Syllabus</a>
+          <a href="coaching.html">Coaching</a>
+          <a class="active" href="contact.html">Contact</a>
+        </div>
+        <div class="nav-cta"><a class="button primary" href="contact.html">Apply for Coaching</a></div>
+        <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false">=</button>
+      </nav>
+    </header>
+
+    <main class="page">
+      <section class="hero copy-only">
+        <div>
+          <div class="eyebrow">Get in Touch</div>
+          <h1>Start with your goals, current level, and preferred project direction.</h1>
+          <p>Apply for coaching, request the syllabus, or ask about the next cohort.</p>
+        </div>
+      </section>
+
+      <section class="section split contact-shell">
+        <div class="section-head">
+          <h2>Application details</h2>
+          <p>Share your current level, preferred track, and the kind of evidence you want to build.</p>
+          <div class="card panel-large process-panel" style="margin-top:24px">
+            <span class="meta-label">After submission</span>
+            <div class="card-list">
+              <div class="check-item">Your goals and current level are reviewed.</div>
+              <div class="check-item">You receive guidance on fit and next steps.</div>
+              <div class="check-item">If selected, you join the next suitable cohort.</div>
+            </div>
+          </div>
+        </div>
+        <form class="card form contact-form panel-large">
+          <label>Full Name<input type="text" name="name" autocomplete="name" required></label>
+          <label>Email Address<input type="email" name="email" autocomplete="email" required></label>
+          <label>Country of Residence<input type="text" name="country" autocomplete="country-name"></label>
+          <label>Current Status<select name="status"><option>MSc Student</option><option>Graduate</option><option>Working Professional</option><option>Other</option></select></label>
+          <label>Current Skill Level<select name="level"><option>Beginner</option><option>Basic Python</option><option>Basic ML</option><option>Intermediate</option><option>Not Sure</option></select></label>
+          <label>Area of Interest<select name="interest"><option>Engineering and Energy Systems</option><option>Healthcare and Clinical Data</option><option>Finance and Risk Analytics</option><option>E-commerce and Product Intelligence</option><option>Marketing and Customer Analytics</option><option>General Applied ML</option></select></label>
+          <label>What do you want to achieve in the next 3 months?<textarea name="goals" required></textarea></label>
+          <label>Would you like to apply for coaching or request the syllabus?<select name="request"><option>Apply for Coaching</option><option>Request Syllabus</option><option>Ask a Question</option></select></label>
+          <button class="button primary" type="submit">Submit Application</button>
+          <p class="form-status" aria-live="polite"></p>
+        </form>
+      </section>
+
+      <section class="section">
+        <div class="section-head"><h2>FAQ</h2></div>
+        <div class="faq">
+          <details><summary>Do I need to be advanced before joining?</summary><p>No. You need some exposure to Python, data analysis, or machine learning, plus willingness to build consistently.</p></details>
+          <details><summary>Is this a beginner course?</summary><p>Not exactly. It is for learners ready to build applied projects, portfolio proof, and interview confidence.</p></details>
+          <details><summary>Will I get a certificate?</summary><p>The main value is project evidence: GitHub repositories, reports, demos, case studies, and clearer explanations.</p></details>
+          <details><summary>What kind of projects will I build?</summary><p>Projects may come from engineering, healthcare, finance, e-commerce, marketing, or general applied ML.</p></details>
+          <details><summary>Will this guarantee me a job?</summary><p>No honest programme can guarantee that. The goal is stronger proof, better skills, and clearer presentation.</p></details>
+          <details><summary>How much time do I need weekly?</summary><p>Plan for 6 to 10 hours per week, including sessions, project work, and portfolio development.</p></details>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer"><div class="footer-inner"><span>GenHart Lab</span><span>Real projects. Production skills. Interview confidence.</span></div></footer>
+    <script src="script.js"></script>
+  </body>
+</html>

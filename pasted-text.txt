@@ -1,0 +1,532 @@
+# GenHart Lab Website Copy
+
+# Home Page
+
+## Hero Section
+
+### Build applied AI skills that can survive real technical review.
+
+GenHart Lab helps ambitious learners build production-ready data and AI skills through real-world projects, portfolio development, and interview-focused coaching.
+
+Our focus is not certificates alone. We help learners develop the practical ability to understand, build, deploy, explain, and present applied machine learning systems with confidence.
+
+**Apply for Coaching**
+**Request Syllabus**
+
+---
+
+## Trust Line
+
+For learners who already know the basics, but need structure, production awareness, project depth, and the confidence to compete for data, AI, and technology roles.
+
+---
+
+## Problem Section
+
+### Most learners do not fail because they lack motivation.
+
+### They fail because their learning does not translate into proof.
+
+Many data and AI learners complete courses, watch tutorials, and build notebook projects, but still struggle to show employers that they can work on real problems.
+
+The gap is usually not effort. It is the absence of applied project structure.
+
+GenHart Lab exists to close that gap.
+
+We help learners move from isolated concepts to complete applied AI workflows: problem framing, data preparation, modelling, evaluation, deployment thinking, portfolio documentation, and interview explanation.
+
+---
+
+## Who It Is For
+
+### Built for ambitious learners trying to break into data, AI, and technology roles.
+
+GenHart Lab is designed for learners who want more than course completion. It is for people who want to build credible evidence of skill.
+
+GenHart Lab is designed for:
+
+* MSc students and graduates
+* Early-career professionals moving into data, AI, and technology roles
+* Learners who know Python or basic ML but struggle to build strong projects
+* STEM graduates who want to apply AI in real domains
+* Self-taught learners who need structure, feedback, and portfolio direction
+* Learners who want interview confidence, not just technical knowledge
+
+You do not need to be perfect before joining. But you should be serious about building real evidence of skill.
+
+---
+
+## What Makes GenHart Lab Different
+
+### Real projects. Production skills. Interview confidence.
+
+GenHart Lab is not a generic data science course.
+
+We focus on the parts most learners miss.
+
+### Production-aware thinking
+
+You learn how applied ML systems are structured beyond notebooks, including data quality, model evaluation, deployment readiness, monitoring, and communication.
+
+### Domain-based learning
+
+Projects are built around real application areas such as engineering systems, healthcare data, finance and risk analytics, e-commerce intelligence, and marketing analytics.
+
+### Portfolio proof
+
+You build projects that can be presented on GitHub, LinkedIn, and in interviews.
+
+### Technical communication
+
+You learn how to explain your project clearly: the problem, the data, the model, the trade-offs, the limitations, and the business or domain value.
+
+### Career positioning
+
+We help you present your work like someone ready for real opportunities, not just someone who completed another online course.
+
+---
+
+## Programme Preview
+
+# Applied ML Portfolio Accelerator
+
+### A 3-month cohort-based coaching programme for learners who want to turn machine learning knowledge into applied project evidence.
+
+Over 12 weeks, you will build real-world data and AI projects, improve your GitHub portfolio, practise deployment-aware workflows, and learn how to present your work confidently in technical interviews.
+
+## What you will work on
+
+* Applied machine learning workflows
+* Real-world problem framing
+* Data cleaning and feature engineering
+* Model training and evaluation
+* Explainability and model limitations
+* Deployment-ready project structure
+* GitHub portfolio development
+* LinkedIn-ready case studies
+* Interview and project presentation practice
+
+**Apply for Coaching**
+**Request Syllabus**
+
+---
+
+## Application Areas
+
+### Applied machine learning across real systems, workflows, and decision environments.
+
+GenHart Lab helps learners understand how data and machine learning are used inside practical domain problems, not as abstract models, but as systems that support prediction, automation, monitoring, and decision-making.
+
+### Engineering and Energy Systems
+
+Projects may explore predictive maintenance, equipment fault detection, sensor data modelling, energy demand forecasting, condition monitoring, anomaly detection, and data-driven optimisation for technical systems.
+
+Learners study how models are built around physical processes, noisy operational data, system constraints, and reliability requirements.
+
+### Healthcare and Clinical Data
+
+Projects may explore patient risk prediction, medical classification tasks, diagnostic support workflows, healthcare operations analytics, explainable modelling, and responsible evaluation of clinical data systems.
+
+Learners focus on model reliability, interpretability, data sensitivity, false positives, false negatives, and why accuracy alone is not enough in healthcare applications.
+
+### Finance and Risk Analytics
+
+Projects may explore fraud detection, credit risk modelling, transaction anomaly detection, customer risk scoring, financial forecasting, and decision-support systems for risk-sensitive environments.
+
+Learners study imbalanced datasets, threshold selection, cost-sensitive evaluation, model monitoring, and the importance of explainability in financial decisions.
+
+### E-commerce and Product Intelligence
+
+Projects may explore recommendation systems, customer segmentation, demand forecasting, product ranking, basket analysis, pricing intelligence, and customer lifetime value modelling.
+
+Learners study how machine learning supports product decisions, customer experience, inventory planning, and revenue growth.
+
+### Marketing and Customer Analytics
+
+Projects may explore churn prediction, campaign performance modelling, lead scoring, customer journey analysis, audience segmentation, conversion prediction, and marketing attribution.
+
+Learners study how data-driven systems help teams understand behaviour, prioritise customers, and improve decision-making across marketing funnels.
+
+---
+
+## Outcomes Section
+
+### By the end of the programme, you should have more than knowledge.
+
+### You should have evidence.
+
+Learners work toward:
+
+* 2 to 3 completed applied ML and AI projects
+* A structured GitHub portfolio
+* At least one deployed app, dashboard, or demo
+* Project reports written in a professional format
+* LinkedIn-ready case studies
+* Stronger understanding of applied ML workflows
+* Production-aware project structure
+* Clearer interview explanations
+* More confidence presenting technical work
+
+The focus is not just learning models. The focus is building proof that you can apply them.
+
+---
+
+## Founder and Credibility Section
+
+### Created from real experience across learning, teaching, and applied AI work.
+
+GenHart Lab was created by Sean Afamefuna, a Nigerian data and AI practitioner currently pursuing an MSc in Energy Engineering in Finland.
+
+Before moving to Finland, Sean built his path through self-directed learning, data science teaching, and applied machine learning work. His experience spans data science, machine learning, AI systems, and domain applications across engineering, health, and commerce-related problems.
+
+GenHart Lab was created to help learners avoid the gap many self-taught and early-career learners face: knowing the theory, but struggling to turn that knowledge into credible project evidence and career confidence.
+
+---
+
+## Pricing Section
+
+# Applied ML Portfolio Accelerator
+
+### 3-month cohort coaching
+
+For learners ready to build serious applied AI project evidence with structure, feedback, and accountability.
+
+## Includes
+
+* Weekly live sessions
+* Project reviews
+* Portfolio guidance
+* GitHub structure support
+* Case study writing guidance
+* Interview and project presentation practice
+* Deployment-aware project structure
+* Access to syllabus and project roadmap
+
+**Early cohort pricing:** ₦250,000 to ₦300,000
+Final pricing may depend on cohort structure, support level, and selected track.
+
+**Apply for Coaching**
+**Request Syllabus**
+
+---
+
+## Final CTA
+
+### Ready to move beyond tutorials?
+
+If you are serious about building applied AI skills that can be shown, reviewed, and defended, GenHart Lab is built for you.
+
+**Apply for Coaching**
+**Request Syllabus**
+
+---
+
+# About Page
+
+## About GenHart Lab
+
+### GenHart Lab exists to close the gap between learning machine learning and proving you can apply it.
+
+Across many online courses and bootcamps, learners are introduced to Python, statistics, machine learning models, and notebooks. But after completing the content, many still struggle with the real questions:
+
+How do I choose a meaningful project?
+How do I structure the workflow?
+How do I explain the model?
+How do I deploy or present the solution?
+How do I make my portfolio credible enough for interviews?
+
+GenHart Lab was created for that gap.
+
+We help learners build production-aware applied AI skills through real-world projects, portfolio development, and coaching that connects technical learning with career presentation.
+
+---
+
+## Our Focus
+
+We focus on learners who want more than certificates.
+
+Our work is built around:
+
+* Applied machine learning
+* Data-driven systems
+* Domain-based AI projects
+* Production-aware workflows
+* Project documentation
+* Portfolio development
+* Interview confidence
+
+We train learners to think through the full project lifecycle: from problem framing to data preparation, modelling, evaluation, deployment thinking, reporting, and communication.
+
+---
+
+## Who We Serve
+
+GenHart Lab is designed for ambitious learners, MSc students, graduates, and early-career professionals who are trying to break into data, AI, and technology roles.
+
+We understand that many capable learners are not lacking intelligence or effort. They are lacking structured project evidence, career positioning, and the confidence to explain their work in a professional setting.
+
+That is the gap we help close.
+
+---
+
+## Founder Note
+
+GenHart Lab was founded by Sean Afamefuna, a Nigerian data and AI practitioner currently pursuing an MSc in Energy Engineering in Finland.
+
+Sean’s path into data and AI began through self-directed learning after studying Industrial Physics. He later worked as a data science instructor and data science specialist before moving to Finland for graduate studies.
+
+His work and interests sit at the intersection of machine learning, data science, AI systems, and applied engineering problems.
+
+GenHart Lab is built from the belief that learners do not just need more courses. They need structure, feedback, real projects, and the ability to communicate their work with confidence.
+
+---
+
+# Syllabus Page
+
+# Applied ML Portfolio Accelerator
+
+### A 3-month applied machine learning coaching programme focused on real projects, production-ready thinking, and interview confidence.
+
+This programme is designed for learners who already have some exposure to Python, data analysis, or machine learning, but need help turning that knowledge into credible applied project work.
+
+---
+
+## Month 1: Foundations for Applied AI Work
+
+### Goal: Move from scattered learning to structured applied ML thinking.
+
+You will work on:
+
+* Understanding applied ML project workflows
+* Framing real-world problems properly
+* Choosing meaningful datasets
+* Understanding business and domain context
+* Data cleaning and exploratory analysis
+* Feature engineering basics
+* Building baseline models
+* Avoiding common project mistakes
+* Structuring GitHub repositories professionally
+
+By the end of Month 1, you should understand how to approach an applied ML project from problem to first model.
+
+---
+
+## Month 2: Building Real-World ML Projects
+
+### Goal: Build deeper project experience with stronger evaluation and production awareness.
+
+You will work on:
+
+* Model selection and comparison
+* Evaluation metrics beyond accuracy
+* Data leakage and validation strategy
+* Explainability and model interpretation
+* Error analysis
+* Model limitations
+* Deployment-ready project structure
+* Simple dashboards, APIs, or demos
+* Writing technical project reports
+
+By the end of Month 2, you should have at least one strong applied project that is technically explainable and portfolio-ready.
+
+---
+
+## Month 3: Portfolio, Deployment Thinking, and Interview Confidence
+
+### Goal: Turn your work into evidence that can support applications and interviews.
+
+You will work on:
+
+* Completing 2 to 3 portfolio projects
+* Improving GitHub presentation
+* Writing LinkedIn-ready case studies
+* Preparing project walkthroughs
+* Practising interview explanations
+* Communicating trade-offs and limitations
+* Presenting domain value
+* Building confidence in technical storytelling
+* Final portfolio review
+
+By the end of Month 3, you should be able to present your work clearly and defend the decisions behind it.
+
+---
+
+## Application Tracks
+
+### Engineering and Energy Systems
+
+Predictive maintenance, equipment fault detection, sensor data modelling, energy demand forecasting, condition monitoring, anomaly detection, and data-driven optimisation for technical systems.
+
+### Healthcare and Clinical Data
+
+Patient risk prediction, medical classification tasks, diagnostic support workflows, healthcare operations analytics, explainable modelling, and responsible evaluation of clinical data systems.
+
+### Finance and Risk Analytics
+
+Fraud detection, credit risk modelling, transaction anomaly detection, customer risk scoring, financial forecasting, and decision-support systems for risk-sensitive environments.
+
+### E-commerce and Product Intelligence
+
+Recommendation systems, customer segmentation, demand forecasting, product ranking, basket analysis, pricing intelligence, and customer lifetime value modelling.
+
+### Marketing and Customer Analytics
+
+Churn prediction, campaign performance modelling, lead scoring, customer journey analysis, audience segmentation, conversion prediction, and marketing attribution.
+
+---
+
+# Coaching Page
+
+# Applied ML Portfolio Accelerator
+
+### A 3-month coaching programme for learners ready to build applied AI project evidence.
+
+The Applied ML Portfolio Accelerator is designed for MSc students, graduates, and early-career professionals who want to move beyond tutorials and build serious portfolio projects.
+
+This is not a passive course.
+
+It is a structured coaching experience built around applied projects, technical feedback, portfolio development, and interview confidence.
+
+---
+
+## What Is Included
+
+* Weekly live cohort sessions
+* Applied ML project roadmap
+* Project reviews and feedback
+* GitHub portfolio guidance
+* Case study writing support
+* Deployment-aware project structure
+* Interview and project presentation practice
+* Support choosing domain-relevant projects
+* Final portfolio review
+
+---
+
+## Who Should Apply
+
+This programme is a good fit if:
+
+* You know basic Python or data analysis
+* You have taken ML or data courses but struggle to build real projects
+* You are an MSc student or graduate trying to enter tech
+* You want stronger GitHub and LinkedIn project evidence
+* You need confidence explaining technical work in interviews
+* You are serious about consistent weekly work for 3 months
+
+This programme may not be the best fit if you want a quick certificate without doing project work.
+
+---
+
+## What You Will Leave With
+
+By the end of the programme, the goal is for you to have:
+
+* 2 to 3 applied ML and AI portfolio projects
+* A better-structured GitHub profile
+* At least one deployed app, dashboard, or demo
+* A clear project report
+* LinkedIn-ready project case studies
+* Stronger confidence explaining ML workflows
+* Better understanding of production-aware ML systems
+* Improved readiness for technical interviews and project discussions
+
+---
+
+## Pricing
+
+**Early cohort pricing:** ₦250,000 to ₦300,000
+
+The final price depends on cohort size, selected track, and support level.
+
+Payment plan options may be available for selected learners.
+
+---
+
+## Application Process
+
+1. Request the syllabus or apply for coaching
+2. Complete a short application form
+3. Share your current learning level and goals
+4. Receive feedback on fit
+5. Join the next available cohort if selected
+
+**Apply for Coaching**
+**Request Syllabus**
+
+---
+
+# Contact Page
+
+## Get in Touch
+
+Interested in GenHart Lab or the Applied ML Portfolio Accelerator?
+
+You can apply for coaching, request the syllabus, or contact us with questions about the next cohort.
+
+**Apply for Coaching**
+**Request Syllabus**
+
+---
+
+## Contact Form Fields
+
+Full Name
+Email Address
+Country of Residence
+Current Status
+MSc Student / Graduate / Working Professional / Other
+
+Current Skill Level
+Beginner / Basic Python / Basic ML / Intermediate / Not Sure
+
+Area of Interest
+Engineering and Energy Systems / Healthcare and Clinical Data / Finance and Risk Analytics / E-commerce and Product Intelligence / Marketing and Customer Analytics / General Applied ML
+
+What do you want to achieve in the next 3 months?
+
+Would you like to apply for coaching or request the syllabus?
+
+---
+
+# FAQ Section
+
+## Do I need to be advanced before joining?
+
+No. You do not need to be advanced, but you should have some basic exposure to Python, data analysis, or machine learning. The programme is best for learners who already know some basics but need structure, feedback, and stronger project experience.
+
+## Is this a beginner course?
+
+Not exactly. GenHart Lab is not designed as a generic beginner bootcamp. It is focused on helping learners build applied projects, production-aware workflows, portfolio evidence, and interview confidence.
+
+## Will I get a certificate?
+
+The main value is not the certificate. The main value is the project evidence you build: GitHub repositories, case studies, reports, demos, and the ability to explain your work clearly.
+
+## What kind of projects will I build?
+
+Projects may come from engineering systems, healthcare data, finance and risk analytics, e-commerce intelligence, or marketing analytics. The focus is on real-world applied AI workflows, not toy examples.
+
+## Is this only for advanced learners?
+
+No. It is for learners with some foundation who are ready to build seriously. If you are completely new to Python, you may need a short preparation phase before joining the main accelerator.
+
+## Will this guarantee me a job?
+
+No programme can honestly guarantee a job. GenHart Lab helps you build stronger project evidence, production-aware skills, and interview confidence so you can compete better for opportunities.
+
+## Is the programme live or recorded?
+
+The programme is cohort-based with weekly live sessions, project reviews, and guided support. Some supporting materials may be provided for self-study.
+
+## How much time do I need weekly?
+
+You should plan for consistent weekly work. A realistic commitment is 6 to 10 hours per week, including sessions, project work, and portfolio development.
+
+## Can I join while studying or working?
+
+Yes. The programme is designed for students and working learners, but you need to be consistent. The value comes from actually building and improving your projects.
+
+## How do I start?
+
+You can apply for coaching or request the syllabus. After that, you may be asked to complete a short application form so we can understand your goals, skill level, and fit for the next cohort.
